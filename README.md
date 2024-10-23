@@ -14,7 +14,7 @@ Welcome to the course repository! This course covers the application of AI and m
 3. Explore the course catalogue for an overview of each track.
 
 Contents are organized as below (under development):
-
+```
 AI-in-Healthcare-Course/
 │
 ├── README.md
@@ -40,6 +40,5 @@ AI-in-Healthcare-Course/
 │   ├── Project_Guidelines.md
 │   ├── Sample_Datasets/
 │   └── etc.
-
-
+```
 Find more detailed descriptions of modules and activities in the `/Track_1`, `/Track_2`, and `/Track_3` folders.
