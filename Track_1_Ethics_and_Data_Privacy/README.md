@@ -1,7 +1,5 @@
 # Track 1: Ethics and Data Privacy in Healthcare
 
-Welcome to **Track 1: Ethics and Data Privacy in Healthcare**. This track will cover the ethical considerations and privacy challenges associated with using AI and machine learning in the healthcare sector.
-
 ## Overview
 This track consists of 9 modules, covering topics such as informed consent, data ownership, privacy, algorithmic fairness, and the societal consequences of using AI in healthcare. The course emphasizes the responsible use of sensitive healthcare data and explores key ethical frameworks.
 
