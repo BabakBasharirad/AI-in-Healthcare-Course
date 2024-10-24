@@ -5,12 +5,12 @@ Welcome to **Track 1: Ethics and Data Privacy in Healthcare**. This track will c
 ## Overview
 This track consists of 9 modules, covering topics such as informed consent, data ownership, privacy, algorithmic fairness, and the societal consequences of using AI in healthcare. The course emphasizes the responsible use of sensitive healthcare data and explores key ethical frameworks.
 
-## Learning Objectives
+## Learning Outcomes
 By the end of this track, students will:
-1. Understand the ethical implications of handling healthcare data and how to ensure responsible AI use.
-2. Gain insight into data ownership, privacy, and anonymity in healthcare AI applications.
-3. Learn to evaluate algorithmic fairness and address potential biases in AI models.
-4. Critically analyze the societal impacts of AI in healthcare, considering both positive and negative consequences.
+1.	Understand and apply ethical principles in the collection, processing, and use of healthcare data.
+2.	Analyze the privacy and ownership implications of healthcare data and develop privacy-preserving solutions for AI applications.
+3.	Identify potential biases in healthcare AI models and propose strategies to ensure algorithmic fairness and transparency.
+4.	Evaluate societal impacts of AI in healthcare and reflect on responsible development practices.
 
 ## Module Breakdown
 
