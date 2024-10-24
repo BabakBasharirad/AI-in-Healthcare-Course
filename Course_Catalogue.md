@@ -1,4 +1,4 @@
-# AI in Healthcare - Course Catalogue
+# AI in Healthcare
 
 ## Track 1: Ethics and Data Privacy
 - **Module 1**: Introduction
